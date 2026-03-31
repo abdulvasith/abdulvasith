@@ -1,4 +1,86 @@
 ## Hi there 👋
+# 👨‍💻 Abdul Vasith M
+
+> Cyber Security Student | Ethical Hacking Enthusiast 🔐
+
+---
+
+## 📖 About Me
+
+Hello! I'm **Abdul Vasith M**, a passionate **Cyber Security student** interested in protecting systems, networks, and data from cyber threats.
+
+I am currently learning and exploring:
+
+* Ethical Hacking 🕵️‍♂️
+* Network Security 🌐
+* Web Application Security 🛡️
+* Penetration Testing 🔍
+
+---
+
+## 🎯 Goals
+
+* 🔐 Become a professional Cyber Security Expert
+* 🧠 Learn advanced penetration testing techniques
+* 🛠️ Build security tools and projects
+* 🌍 Contribute to open-source security projects
+
+---
+
+## 🛠️ Skills
+
+* 💻 Programming: C, C++, Python (basic)
+* 🌐 Web: HTML, CSS
+* 🔒 Cyber Security:
+
+  * Vulnerability Scanning
+  * Basic Penetration Testing
+  * Networking Concepts
+
+---
+
+## 📂 Projects
+
+Here are some of my projects:
+
+* 🏁 **CTFd Platform Setup** – Configured and deployed a Capture The Flag (CTF) platform using Docker for practicing cyber security challenges.
+* 🔍 **Project 1** – Short description
+* 🔐 **Project 2** – Short description
+* 🌐 **Project 3** – Short description
+
+---
+
+## ⚙️ Tools I Use
+
+* Kali Linux 🐉
+* Wireshark
+* Nmap
+* Burp Suite
+* Metasploit
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Ethical Hacking
+* Web Security (XSS, SQL Injection, CSRF)
+* Linux & Networking
+
+---
+
+## 🤝 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💻 GitHub: [https://github.com/your-username](https://github.com/your-username)
+
+---
+
+## ⭐ Support
+
+If you like my work, feel free to ⭐ my repositories!
+
+---
+
 
 <!--
 **abdulvasith/abdulvasith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
