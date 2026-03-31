@@ -43,7 +43,7 @@ I am currently learning and exploring:
 
 Here are some of my projects:
 
-* 🏁 **CTFd Platform Setup** – Configured and deployed a Capture The Flag (CTF) platform using Docker for practicing cyber security challenges.
+* 🏁 CTFd Platform – Created and modified the CTFd web platform, developed CTF challenges, and managed backend operations while conducting a Capture The Flag (CTF) program
   
 ---
 
