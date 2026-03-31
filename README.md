@@ -44,10 +44,7 @@ I am currently learning and exploring:
 Here are some of my projects:
 
 * 🏁 **CTFd Platform Setup** – Configured and deployed a Capture The Flag (CTF) platform using Docker for practicing cyber security challenges.
-* 🔍 **Project 1** – Short description
-* 🔐 **Project 2** – Short description
-* 🌐 **Project 3** – Short description
-
+  
 ---
 
 ## ⚙️ Tools I Use
@@ -70,7 +67,7 @@ Here are some of my projects:
 
 ## 🤝 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: abdulvasith66@gmail.com
 * 💻 GitHub: [https://github.com/your-username](https://github.com/your-username)
 
 ---
